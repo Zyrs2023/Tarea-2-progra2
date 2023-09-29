@@ -1,0 +1,7 @@
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\bin\Debug\Upitarea1progra2.exe.config
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\bin\Debug\Upitarea1progra2.exe
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\bin\Debug\Upitarea1progra2.pdb
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\obj\Debug\Upitarea1progra2.csproj.AssemblyReference.cache
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\obj\Debug\Upitarea1progra2.csproj.CoreCompileInputs.cache
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\obj\Debug\Upitarea1progra2.exe
+C:\Users\SCamacho.LAP-SCAMACHO\Desktop\Programacion 2\Upitarea1progra2\Upitarea1progra2\obj\Debug\Upitarea1progra2.pdb
