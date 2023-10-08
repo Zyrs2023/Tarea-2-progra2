@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upitarea1progra2", "Upitarea1progra2\Upitarea1progra2.csproj", "{B80EC1B7-AA8B-4485-A919-FD0A420EE977}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upitarea1pragra2vercion1.2", "Upitarea1pragra2vercion1.2\Upitarea1pragra2vercion1.2.csproj", "{7D806E35-590B-4799-BD3E-556F1D24B8A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B80EC1B7-AA8B-4485-A919-FD0A420EE977}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B80EC1B7-AA8B-4485-A919-FD0A420EE977}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B80EC1B7-AA8B-4485-A919-FD0A420EE977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D806E35-590B-4799-BD3E-556F1D24B8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D806E35-590B-4799-BD3E-556F1D24B8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D806E35-590B-4799-BD3E-556F1D24B8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D806E35-590B-4799-BD3E-556F1D24B8A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

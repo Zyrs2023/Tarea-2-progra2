@@ -12,7 +12,11 @@ namespace Upitarea1progra2
 
         static void Main(string[] args)
         {
-
+          menu();
+            int cantidadEstudiantes;
+        }
+        public static void menu()
+        {
             int opcion = 0;
 
             do
@@ -44,7 +48,9 @@ namespace Upitarea1progra2
                 }
 
             } while (opcion != 4);
-        }
+
+        }   
+        
         public static void Ejercicio1()
         {
             float precio = 0f;
@@ -72,6 +78,10 @@ namespace Upitarea1progra2
                 total = (cantidad * precio) - total;
                 Console.WriteLine($"Total a pagar : {total} con descuento de 20%");
             }
+        }
+        public static void datosEstudiantes()
+        {
+            
         }
         public static void Ejercicio2()
         {
